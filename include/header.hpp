@@ -33,7 +33,6 @@ private:
     parse_object(const std::string &str, size_t &pos);
 
 public:
-
     explicit Json(const std::string &s);
 
     Json() {}
