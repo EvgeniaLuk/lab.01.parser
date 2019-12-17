@@ -1,7 +1,4 @@
-#ifndef HEADER_H_INCLUDED
-#define HEADER_H_INCLUDED
-#endif // HEADER_H_INCLUDED
-
+// Copyright 2018 Your Name <your_email>
 #ifndef INCLUDE_HEADER_HPP_
 #define INCLUDE_HEADER_HPP_
 
